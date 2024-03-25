@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Emanuele Riccio</h1>
+<h1 align="center">Hi, I'm Emanuele Riccio</h1>
 <h3 align="center">Computer Engineer MSc students in University of Naples Federico II</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lelettrone" alt="Emanuele Riccio" /> </p>
